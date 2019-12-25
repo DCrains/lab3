@@ -2,7 +2,7 @@
 
 use yii\db\Migration;
 
-class m191211_155936_03_create_table_trains extends Migration
+class m191211_155936_03_create_table_kursi extends Migration
 {
     public function up()
     {
